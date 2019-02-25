@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="Sign_text">Sign In</string>
+    <string name="Username">Enter Username</string>
+    <string name="Password">Enter Password</string>
+    <string name="Login_button">Login</string>
+    <string name="Uname">Username</string>
+    <string name="Upass">Password</string>
+    <string name="cupass">Confirm Password</string>
+    <string name="Register">Register</string>
+    <string name="SignUp"><u>Not Registered? Sign Up</u></string>
+    <string name="LogOut">Logout</string>
+    <string name="clearButton">Clear Data</string>
+    <string name="LoginIconImage">LoginIconImage</string>
+    <string name="NewUser">Add new user</string>
+    <string name="WelcomeText">Welcome User</string>
+</resources>
